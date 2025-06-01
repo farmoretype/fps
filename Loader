@@ -1,4 +1,4 @@
-local decalsyeeted = true -- Leaving this on makes games look shitty but the fps goes up by at least 20.
+local decalsyeeted = true
 local g = game
 local w = g.Workspace
 local l = g.Lighting
@@ -29,5 +29,3 @@ if e:IsA("BlurEffect") or e:IsA("SunRaysEffect") or e:IsA("ColorCorrectionEffect
 e.Enabled = false
 end
 end
-
--- for those of you who have a not toaster pc it makes games alot less fps intensive and smoothes out ur fps and give you a boost of at least 20 fps also I honestly have no clue where this came from i found more than a couple people saying its theirs so if ur the actual owner my bad i just dont know you
